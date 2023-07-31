@@ -24,7 +24,7 @@ const Navbar = () => {
 
       {/*mobile links*/}
       {show && (
-      <div className='lg:hidden absolute top-0 left-0 w-full h-[600px] bg-white z-100'>
+      <div className='lg:hidden fixed top-0 left-0 w-full h-[600px] bg-white z-100'>
           <AiOutlineClose onClick={() => setShow(false)} size={25} className='absolute right-1 cursor-pointer text-black top-1 font-bold'/>
           <h1 className='text-black py-3 px-2 font-serif font-bold shadow-md text-xl'>BEACHES.</h1>
         <ul className=' lg:flex justify-center gap-6 font-serif font-semibold text-black px-4 py-2'>

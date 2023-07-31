@@ -32,7 +32,7 @@ const Footer = () => {
             </ul>
         </div>
       </div>
-      <p className="text-purple-400 font-bold">&copy; 2023 - All rights reserved. Created by Moses .O. Wamboga - 075817116/ 0777886326</p>
+      <p className="text-purple-400 font-bold">&copy; 2023 - All rights reserved. Created by Moses .O. Wamboga - +254758171116/ +254777886326</p>
     </div>
   )
 }
